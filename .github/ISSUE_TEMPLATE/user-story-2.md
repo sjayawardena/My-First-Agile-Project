@@ -17,6 +17,6 @@ In order to **receive benefit** as a **role**, I can **goal / desire**
 
 ### Tasks
 
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3
+- [ ] Task 1:
+- [ ] Task 2:
+- [ ] Task 3:
