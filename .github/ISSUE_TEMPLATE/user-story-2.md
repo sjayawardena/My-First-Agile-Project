@@ -1,7 +1,7 @@
 ---
 name: User Story 2
 about: Second user story template.
-title: ''
+title: 'USER STORY: <TITLE>'
 labels: ''
 assignees: ''
 
